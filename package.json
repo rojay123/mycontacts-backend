@@ -1,0 +1,19 @@
+{
+  "name": "mycontacts-backend",
+  "version": "1.0.0",
+  "description": "This express backed pai",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojay123/mycontacts.git"
+  },
+  "author": "Roja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rojay123/mycontacts/issues"
+  },
+  "homepage": "https://github.com/rojay123/mycontacts#readme"
+}
